@@ -1,0 +1,9 @@
+{
+  "appId": "pk.offer.zenpipes",
+  "appName": "ZenPipes",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "backgroundColor": "#060B12"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "zenpipes",
+  "version": "1.0.0",
+  "description": "ZenPipes: sleek, calming offline pipe flow rotation logic puzzle",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "node --test test/logic.test.js",
+    "build": "node scripts/build.js",
+    "cap:add": "cap add android",
+    "cap:sync": "cap sync android"
+  },
+  "keywords": [
+    "pipes",
+    "flow",
+    "puzzle",
+    "offline",
+    "capacitor",
+    "pwa",
+    "vanilla-js",
+    "logic-game"
+  ],
+  "author": "OfferPk",
+  "license": "MIT",
+  "devDependencies": {
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/cli": "^6.2.0",
+    "@capacitor/core": "^6.2.0"
+  }
+}
